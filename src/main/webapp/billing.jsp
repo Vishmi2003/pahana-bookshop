@@ -233,7 +233,7 @@
     }
 </script>
 <div style="text-align:center; margin-top:15px;">
-    <button onclick="saveDailyBills()">Save Daily Bills to DB</button>
+    <button onclick="saveDailyBills()">Save Daily Bills to Database</button>
 </div>
 
 <script>
